@@ -720,7 +720,7 @@ function HowToUsePage() {
                 <span className="shrink-0 w-7 h-7 rounded-full border border-white/12 flex items-center justify-center text-xs text-white/40 font-mono mt-0.5">
                   {step.n}
                 </span>
-                <div>
+                <div> 
                   <p className="text-white font-semibold text-sm mb-1">{step.title}</p>
                   <p className="text-white/40 text-sm leading-relaxed">{step.body}</p>
                   {step.link && (
