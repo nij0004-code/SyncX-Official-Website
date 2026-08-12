@@ -1,6 +1,6 @@
 # SyncX
 
-### **Discover. Launch. Build.**
+### **Redefine the possible.**
 
 SyncX is your destination for finding scripts in a sleek, high-performance environment built with speed and simplicity at its core.
 
