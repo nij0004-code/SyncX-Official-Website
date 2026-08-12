@@ -1,1 +1,1 @@
-All copy right to Sync , and Built by Mr Xeno
+Copy right and design protection at sync
