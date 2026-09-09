@@ -21,4 +21,4 @@ By using SyncX, you accept full responsibility for how you use any resources ava
 
 ---
 
-**Engineered by Mr Xeno
+**Engineered by Mr Xeno For TheOfficialSync
